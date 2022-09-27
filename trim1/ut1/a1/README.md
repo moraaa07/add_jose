@@ -71,10 +71,19 @@ En este primer punto crearemos la máquina virtual de Ubuntu Server, donde le po
     + No le ponemos disco duro.
     
     + Solo ponemos RAM.
+
     <img src="ltsp_img/4.1.1.png"> 
+
+
     + Tarjeta de red PXE en modo "red interna".
+
+
     <img src="ltsp_img/4.1.2.png">
+
+
     + Configuramos la memoria gráfica a 128MB y habilito el soporte 3D.
+
+    
     <img src="ltsp_img/4.1.3.png">
 
 + Teniendo el Servidor encendido, levanto la MV de clientes ligeros. (Adjunto una captura, donde en la parte superior se ve el nombre de la MV).
