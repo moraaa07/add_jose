@@ -72,7 +72,34 @@
 
      <img src="vnc_img/5.1.png">
 
+     Vemos que nos aparece el remoto de Windows.
+
+
+     <img src="vnc_img/5.1.1.png">
+
 + Ejecuto el comando "netstat -n" en el servidor de Windows. Son dos capturas porque en una sola no cabía todo. 
 
     <img src="vnc_img/5.2.png">
     <img src="vnc_img/5.2.1.png">
+
++ Conecto el cliente de windows con el servidor de linux. A la izquierda, apreciamos la MV de linux y a la derecha vemos la MV de windows, y dentro la conexión con linux.
+
+    <img src="vnc_img/5.3.png">
+
++ Ejecutamos en el servidor de Linux "lsof -i -nP"
+
+    <img src="vnc_img/5.4.png">
+
+# 6. DISPLAY 0 en GNU/Linux 
+
++ Usamos las dos MV de linux. 
+
+    + Vamos al servidor: 
+        + Ejecuto el comando "x0vncserver -display :0 -passwordfile /home/mora/.vnc/passwd". Nos fijamos que a la izquiera tenemos el cliente, y nos queremos conectar con el servidor, que será el de la derecha. 
+         <img src="vnc_img/6.1.png">
+
+    + Nos conectamos con el servidor: 
+
+        <img src="vnc_img/6.2.1.png">  
+
+        
