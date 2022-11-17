@@ -1,5 +1,3 @@
-### José Antonio Mora Cairós
-### 2º ASIR
 
 # NFS (Network File System)
 
@@ -77,3 +75,5 @@ Vemos el resultado y preparando la instalación.
 
 Tuve problemas a la hora de conectarme con la 192.168.1.102, y revisé todas las ip y no había ninguno problema a priori. 
 
+
+>>>>>>> 45047310f9b9d1357147bba5c73914b6c23111d7
