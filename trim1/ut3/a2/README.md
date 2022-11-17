@@ -35,4 +35,28 @@
 
 ## 2. Imprimir de forma local.
 
-1. 
+1. Primero instalaremos el paquete `cups-pdf`.
+
+    <img src="./img/3.1.png">
+
+2. Mandamos un paquete a imprimir. En algun lado de el gestor de archivos tenía que estar. Me dirijo a la dirección de la siguiente captura y me aparece el pdf que escribí y que mandé a imprimir.
+
+    <img src="./img/3.2.png">
+
+3. Muestro otra captura con la comprobación de la ruta como del pdf. 
+
+    <img src="./img/3.3.png">
+
+## 3. Imprimir de forma remota.
+
+1. Habilité la impresora como recurso de red compartido. 
+
+    <img src="./img/4.1.png">
+
+2. Ahora configuraremos la impresora. 
+
+    <img src="./img/4.2.png">
+
+3. Y aquí mostraré como esta predeterminada la impresora en el servidor y los ficheros que se mandaron a imprimir. 
+
+    <img src="./img/4.5.png">
