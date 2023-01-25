@@ -194,4 +194,35 @@
 
 <img src="./img/5.1.2.png">
 
-3. 
+3. Creamos la imagen apartir del `Dockerfile` creado anteriormente. 
+
+<img src="./img/5.1.3.png">
+
+4. Probamos a ejecutar el docker que acabamos de crear, y funciona correctamente, con el siguiente comando.
+
+<img src="./img/5.1.4.png">
+
+# 5.1 Subir la imagen a Docker Hub.
+
+1. Me registro previamente en `Docker Hub` por internet, y una vez creada la cuenta accedo. 
+
+<img src="./img/5.2.1.png">
+
+2. Etiquetamos la imagen con `version1`. 
+
+<img src="./img/5.2.2.png">
+
+3. Ahora subimos la imagen que acabamos de crear a los repositorios de Docker.
+
+<img src="./img/5.2.3.png">
+
+# 6 Limpiar contenedores e imágenes.
+
+1. Ejecutamos el siguiente comando para identificar todos los contenedores que tenemos. 
+
+<img src="./img/6.1.1.png">
+
+2. Ahora paramos los contenedores y los borramos. 
+
+<img src="./img/6.1.2.png">
+
